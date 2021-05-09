@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">MovieDB</string>
 
+    <string name="rating">Rating</string>
+    <string name="OverView">OverView</string>
+    <string name="Release_Date">Release Date</string>
+    <string name="Language">Language</string>
+
 
 </resources>
